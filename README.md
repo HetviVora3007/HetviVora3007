@@ -8,7 +8,7 @@ const Person Me = {
     name: "Hetvi Vora",
     age: 19,
     nationality: "Indian",
-    known Languages: ["Github", "HTML", "CSS", "JS"]
+    known Languages: ["Github", "HTML", "CSS", "JS","REACT"]
 }
 ```
 
