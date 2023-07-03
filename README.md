@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/hetvi-vora-664456235" target="_blank"> Hetvi Vora</a></h1>
-<h3 align="center">A Front End Developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 ## About Me 
 
 ```js
 const Person Me = {
     name: "Hetvi Vora",
-    age: 19,
+    age: 20,
     nationality: "Indian",
-    known Languages: ["Github", "HTML", "CSS", "JS","REACT"]
+    known Languages: [REACTJS","NODEJS","EXPRESSJS","MONGODB",GITHUB","JS", "CSS", "HTML"]
 }
 ```
 
@@ -18,18 +18,19 @@ const Person Me = {
   
 ## Technology
 <div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=appveyor"/> 
-<img alt="Git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/nodejs-%2343853D.svg?style=for-the-badge&logo=node-js&logoColor=white"/>
+<img alt="Express" src="https://img.shields.io/badge/-Express-blue?style=for-the-badge&logo=express"/> 
+<img alt="Git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=appveyor"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 </div>
 
 ## Databases
 <div align="left">
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23ffb900.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=red"/>
+    <img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge&logo=mongodb"/>
 </div>
 
 ## Hosting
